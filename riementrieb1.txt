@@ -1,0 +1,1 @@
+./Debug/winkelfunktionen.cpp.o ./Debug/riemen.cpp.o ./Debug/menuefrage.cpp.o ./Debug/main.cpp.o
